@@ -17,7 +17,7 @@ Hi! I'm a student at Carnegie Mellon University. I major in Information Systems 
 - how to make graphs that are concise and easy to understand
 - how to express my ideas by telling stories
 - how to design beautiful pages
-
+- how to do data visualization that considering accessibility
 
 # Portfolio
 
