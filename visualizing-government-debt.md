@@ -31,3 +31,4 @@ Taxi pickups Map
 In this graph, I created a density map to show the taxi pick up pattern. My data source contain point geometry, latitude and longitude coordinates. From the graph, we can see that midtown is the most popular area for taxi pickups.
 
 
+Different methods of visualization including line chart, pie chart, bar chart, scatter point chart, geographic map, table etc. In this assignement, the first bar chart of government debt can clearly compare the debt in different countries. Bar chart is suitable for comparing data. The second heat map can help us easily find the highest and lowest data distribution. In the third part, I decided to visualize data in some other way like a map. Density map graph is a better way to visualize geographic information.
