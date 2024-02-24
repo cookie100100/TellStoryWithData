@@ -56,26 +56,13 @@ The next step I'll visualize the pattern of change in environments and economic 
 1. better to make the size and color of two graphs consistent
 2. the trend of urbanization is clear and understandable
 3. may include more information like economic and environment data to show the impact of urbanization
-
-Q1. Initial Reaction to the Visualizations
-Interview 1	Found the color coding effective, suggested more detailed legends for clarity.
-Interview 2 Liked the overall design, but recommended highlighting high-growth areas.
-Interview 3 Appreciated the historical comparison, suggested adding population density data.
-Q2. Clarity and Understandability of Data Representation
-Interview 1	Mentioned some confusion with the size representation scaling, suggested a more intuitive approach.
-Interview 2 Found the layout intuitive, but recommended highlight color for certan area
-Q3. Effectiveness in Capturing Urbanization Evolution
-Interview 1 Felt it accurately represented urban growth, but lacked insights on urban sprawl.
-Interview 2 Thought it showed housing trends well, suggested adding economic factors for context.
-Interview 3 Found it insightful, but recommended including more socio-economic data for depth.
-Q4. Additional Data or Features Desired
-Interview 1 Recommended adding public infrastructure development data.	
-Interview 2 Interested in seeing future projection trends integrated.	
-Interview 3 Suggested incorporating environmental impact data.
-Q5. Potential Use of Information	
-Interview 1 For planning and assessing urban development needs.	
-Interview 2 As a tool for investment strategies and market analysis.	
-Interview 3 For research and educational purposes in urban studies.
+| Questions                       | Interview 1 | Interview 2 | Interview 3                                                   |
+|---------------------------------|-------------|---------------|--------------------------------------------------------|
+|  Initial Reaction to the Visualizations   | Found the color coding effective, suggested more detailed legends for clarity.|  Liked the overall design, but recommended highlighting high-growth areas.|Appreciated the historical comparison, suggested adding population density data. |
+| Clarity and Understandability of Data Representation| Mentioned some confusion with the size representation scaling, suggested a more intuitive approach. |Found the layout intuitive, but recommended highlight color for certan area||
+|  Effectiveness in Capturing Urbanization Evolution             | Felt it accurately represented urban growth, but lacked insights on urban sprawl.|Thought it showed housing trends well, suggested adding economic factors for context.|Found it insightful, but recommended including more socio-economic data for depth. |
+| Additional Data or Features Desired             | Recommended adding public infrastructure development data.	| Interested in seeing future projection trends integrated.	|   Suggested incorporating environmental impact data.  |
+|Potential Use of Information	     |For planning and assessing urban development needs.	|As a tool for investment strategies and market analysis.	|          For research and educational purposes in urban studies.                                |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
