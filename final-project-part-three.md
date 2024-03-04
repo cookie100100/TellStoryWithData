@@ -2,18 +2,17 @@
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
-
+[Text here!
+](https://carnegiemellon.shorthandstories.com/theUrbanization/index.html)
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+Since part two, I added some impacts of urbanization. In part two, I only visualize the change in housing in the urban area from 2010 to 2020 but I didn't include any impact of urbanization. I addressed the impact on environment by adding a graph of relationship between population and carbon footprint. I found that there are no distinct correlation between two of them so maybe other cities can learn to balance development and environment from large cities like new york and los angeles. Also, I added some actionable advice to the audience. 
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+My audience includes urban planners and city officials as well as academics and students in urban studies or related fields. 
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
