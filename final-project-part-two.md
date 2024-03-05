@@ -58,8 +58,7 @@ The next step I'll visualize the pattern of change in environments and economic 
 3. may include more information like economic and environment data to show the impact of urbanization
 | Questions                       | Interview 1 | Interview 2 | Interview 3                                                   |
 |---------------------------------|-------------|---------------|---------------------------------------------|
-|  Initial Reaction to the Visualizations   
-
+| Initial Reaction to the Visualizations   
 | Found the color coding effective, suggested more detailed legends for clarity.
 | Liked the overall design, but recommended highlighting high-growth areas.|Appreciated the historical comparison, suggested adding population density data. 
 |
